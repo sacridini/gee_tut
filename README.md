@@ -1,5 +1,8 @@
 # Google Earth Engine Tutorial
 
+Eduardo Lacerda  
+Meu contato: eduardolacerdageo@gmail.com  
+
 Google Earth Engine website: https://earthengine.google.com/  
 JavaScript Code Editor: https://code.earthengine.google.com/  
 Documentation: https://developers.google.com/earth-engine/  
