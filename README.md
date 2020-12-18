@@ -1,7 +1,7 @@
 # Google Earth Engine Tutorial
 
 Eduardo Lacerda  
-Meu contato: eduardolacerdageo@gmail.com  
+Contact: eduardolacerdageo@gmail.com  
 
 Google Earth Engine website: https://earthengine.google.com/  
 JavaScript Code Editor: https://code.earthengine.google.com/  
@@ -9,7 +9,7 @@ Documentation: https://developers.google.com/earth-engine/
 Python API: https://developers.google.com/earth-engine/python_install  
 
 ### Tutorial (Português - BR)
-[Luis Sadeck](https://www.youtube.com/watch?v=Dqjtoj9AJak&list=PLNFvG6bTA4NReWtgC93Mh9Tw1RNG4EBMP&ab_channel=LuisSadeck) - Videos no YouTube
+[Luis Sadeck](https://www.youtube.com/watch?v=Dqjtoj9AJak&list=PLNFvG6bTA4NReWtgC93Mh9Tw1RNG4EBMP&ab_channel=LuisSadeck) - YouTube videos
 
 ### Google Earth Engine Toolbox (JavaScript):
 Github repo: https://github.com/sacridini/GEET
